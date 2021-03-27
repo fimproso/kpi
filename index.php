@@ -7,12 +7,12 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title> thy</title>
     </head>
     <body>
        <?php
 // Simple Computation
-$size = 9;
+$size = 14;
 echo '<pre>';
 for ($row = 1; $row <= $size; ++$row) {
    for ($col = 1; $col <= $size; ++$col) {
